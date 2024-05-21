@@ -7,7 +7,7 @@
 - Calcular el valor total del inventario.
 - Realizar las compras y saber el precio total de tu carrito.
 - Gestionar los cambios.
-- Gestionar una lista de clientes y filtrar con el formato correcto de su email.
+- Gestionar una lista de clientes y sus respectivas compras.
 
 ### ¡Espero que te guste!
 
