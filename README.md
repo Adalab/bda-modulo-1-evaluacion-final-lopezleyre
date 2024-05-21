@@ -11,4 +11,4 @@
 
 ### ¡Espero que te guste!
 
-Cualquier feedback estaré encantada de recibirlo para poder aprender :D
+Cualquier feedback estaré encantada de recibirlo para poder aprender 😄
