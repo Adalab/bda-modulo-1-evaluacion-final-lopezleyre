@@ -13,7 +13,7 @@ A continuación, se detallan las características y los métodos implementados e
 
 - Realizar compras: Añadir productos al carrito y calcular el precio total de la compra.
 
-- Gestionar cambios monetarios: Calcular la diferencia a devolver al cliente.
+- Gestionar la caja de la tienda: Calcular la diferencia a devolver al cliente.
 
 - Gestionar una lista de clientes: Crear una base de datos de clientes.
 
